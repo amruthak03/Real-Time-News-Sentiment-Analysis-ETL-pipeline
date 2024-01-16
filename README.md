@@ -1,4 +1,4 @@
-# Real-Time-News-Sentiment-Analysis-ETL-pipeline
+# Streaming News Sentiment Analysis ETL Pipeline
 
 Welcome to the Real-Time News Sentiment Analysis project! This project implements an end-to-end ETL (Extract, Transform, Load) pipeline using Apache Kafka, PySpark, and MySQL for real-time sentiment analysis of news articles. The pipeline involves data ingestion from the New York Times API, sentiment analysis using PySpark streaming, and visualization of sentiment trends through a Tableau dashboard.
 
